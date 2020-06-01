@@ -1,2 +1,2 @@
 # simon-says
-The famous Simon says game on HTML
+The famous Simon says game, using HTML and JavaScript
